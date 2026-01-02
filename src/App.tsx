@@ -1,4 +1,3 @@
-// src/App.tsx
 import React, { useEffect, useMemo, useState } from "react";
 import { analyzeResolution, AnalysisResult } from "./analyzer";
  
