@@ -1,4 +1,3 @@
-/* src/styles.css */
 :root {
   --bg: #0f1120;
   --panel: #16182a;
@@ -133,4 +132,5 @@ button {
   width: 1px; height: 1px;
   padding: 0; margin: -1px; overflow: hidden;
   clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+
 }
