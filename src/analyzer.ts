@@ -1,4 +1,3 @@
-// src/analyzer.ts
 export type Verdict = "achievable" | "optimistic" | "delusional";
  
 export interface AnalysisResult {
@@ -157,4 +156,5 @@ export function analyzeResolution(raw: string): AnalysisResult {
       score
     };
   }
+
 }
